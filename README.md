@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jahwood
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jahwood/jahwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ivan
+- 👀 I’m a 360 Lead Full Stack Developer at Agentur 22 based in Munich
+- 🌱 I’m currently working :D
+- 💞️ I’m looking for growing
+- 📫 info@jahwood.de 
